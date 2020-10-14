@@ -24,7 +24,7 @@ I have gone through different processes/steps while doing this project. The step
 
 
 
-<b> Depending on the time available to you and your curosity level you can refer to respected files listed above. </b>
+<b> Depending on the time available to you and your curosity level you can refer to the respected folders listed above. </b>
 
 
 
