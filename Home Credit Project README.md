@@ -13,18 +13,18 @@ loans to future defaulters.
 
 I have gone through different processes/steps while doing this project. The steps are listed below.
 
-..* Exploratory Data Analysis : Refer to the ### Data Story ### Folder to access the notebook and understand the process and insights.
+1. Exploratory Data Analysis : Refer to the ### Data Story Folder to access the notebook and understand the process and insights.
 
-..* Statistical Data Analysis : Refer to the ### Inferential Statistics ### Folder to access the notebook and understand the statistical analysis performed on the data.
+2. Statistical Data Analysis : Refer to the ### Inferential Statistics ### Folder to access the notebook and understand the statistical analysis performed on the data.
 
-..* Data Wrangling and Feature Engineering : Refer to the ### technical process docs ### folder for the documentation pertaining to this step and to the ### Data Wrangling Code ### folder 
+3. Data Wrangling and Feature Engineering : Refer to the ### technical process docs ### folder for the documentation pertaining to this step and to the ### Data Wrangling Code ### folder 
                                              to access the notebook containing the corresponding code. 
 
-..* Machine Learning : Refer to the ### technical process docs ### folder for the documentation pertaining to this step and to the ### ML Code ### folder to access 
+4. Machine Learning : Refer to the ### technical process docs ### folder for the documentation pertaining to this step and to the ### ML Code ### folder to access 
                        the notebook containing the corresponding code. 
                                          
                                          
-..* Final Presentation : Refer to the ### final presentation ### folder to get the overview of the complete project and the steps mentioned above. 
+5. Final Presentation : Refer to the ### final presentation ### folder to get the overview of the complete project and the steps mentioned above. 
 
 
 
