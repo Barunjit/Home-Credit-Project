@@ -13,7 +13,7 @@ loans to future defaulters.
 
 I have gone through different processes/steps while doing this project. The steps are listed below.
 
-1. Exploratory Data Analysis : Refer to the ### Data Story Folder to access the notebook and understand the process and insights.
+1. Exploratory Data Analysis : Refer to the <b> Data Story </b> Folder to access the notebook and understand the process and insights.
 
 2. Statistical Data Analysis : Refer to the ### Inferential Statistics ### Folder to access the notebook and understand the statistical analysis performed on the data.
 
