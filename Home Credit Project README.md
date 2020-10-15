@@ -26,7 +26,7 @@ I have gone through different processes/steps while doing this project. The step
 
 <b> Depending on the time available to you and your curosity level you can refer to the respected folders listed above. </b>
 
-<b>Note <b> : Because of the space constraint data files couldn't be loaded, but you can refer to HomeCredit_columns_description.csv to get a better description of the data files and respective columns.
+<b>Note </b> : Because of the space constraint data files couldn't be loaded, but you can refer to HomeCredit_columns_description.csv to get a better description of the data files and respective columns.
 
 
 
